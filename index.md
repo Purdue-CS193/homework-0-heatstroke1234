@@ -1,4 +1,4 @@
-### Nikhil Venkatachalam's First CS193 Homework
+# Nikhil Venkatachalam's First CS193 Homework
 
 ## Favorite things about CS193
 - it sure does exist
@@ -6,7 +6,7 @@
 - dinner is right after class
 - jk I love y'all lmao
 
-## Welcome to GitHub Pages
+### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
